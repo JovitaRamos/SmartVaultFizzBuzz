@@ -1,0 +1,12 @@
+F:\Estudo\EasyChallenge\FizzBuzzLib\FizzBuzzLib\bin\Debug\net6.0\FizzBuzzLib.deps.json
+F:\Estudo\EasyChallenge\FizzBuzzLib\FizzBuzzLib\bin\Debug\net6.0\FizzBuzzLib.dll
+F:\Estudo\EasyChallenge\FizzBuzzLib\FizzBuzzLib\bin\Debug\net6.0\FizzBuzzLib.pdb
+F:\Estudo\EasyChallenge\FizzBuzzLib\FizzBuzzLib\obj\Debug\net6.0\FizzBuzzLib.csproj.AssemblyReference.cache
+F:\Estudo\EasyChallenge\FizzBuzzLib\FizzBuzzLib\obj\Debug\net6.0\FizzBuzzLib.GeneratedMSBuildEditorConfig.editorconfig
+F:\Estudo\EasyChallenge\FizzBuzzLib\FizzBuzzLib\obj\Debug\net6.0\FizzBuzzLib.AssemblyInfoInputs.cache
+F:\Estudo\EasyChallenge\FizzBuzzLib\FizzBuzzLib\obj\Debug\net6.0\FizzBuzzLib.AssemblyInfo.cs
+F:\Estudo\EasyChallenge\FizzBuzzLib\FizzBuzzLib\obj\Debug\net6.0\FizzBuzzLib.csproj.CoreCompileInputs.cache
+F:\Estudo\EasyChallenge\FizzBuzzLib\FizzBuzzLib\obj\Debug\net6.0\FizzBuzzLib.dll
+F:\Estudo\EasyChallenge\FizzBuzzLib\FizzBuzzLib\obj\Debug\net6.0\refint\FizzBuzzLib.dll
+F:\Estudo\EasyChallenge\FizzBuzzLib\FizzBuzzLib\obj\Debug\net6.0\FizzBuzzLib.pdb
+F:\Estudo\EasyChallenge\FizzBuzzLib\FizzBuzzLib\obj\Debug\net6.0\ref\FizzBuzzLib.dll

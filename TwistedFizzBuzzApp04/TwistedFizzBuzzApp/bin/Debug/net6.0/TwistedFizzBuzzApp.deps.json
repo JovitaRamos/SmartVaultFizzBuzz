@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "TwistedFizzBuzzApp/1.0.0": {
+        "dependencies": {
+          "FizzBuzzLib": "1.0.0.0"
+        },
+        "runtime": {
+          "TwistedFizzBuzzApp.dll": {}
+        }
+      },
+      "FizzBuzzLib/1.0.0.0": {
+        "runtime": {
+          "FizzBuzzLib.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TwistedFizzBuzzApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FizzBuzzLib/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
